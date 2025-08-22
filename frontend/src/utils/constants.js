@@ -107,6 +107,11 @@ export const supportedChains = [
     blockExplorer: "https://scan.merlinchain.io/",
     name: "merlin chain",
   },
+  {
+    chainId: 196,
+    batchTransferAddress: "0x3ad87dbe12cc44c046e344f8b70d735d1b595e01",
+    blockExplorer: "https://www.oklink.com/zh-hans/x-layer/",
+    name: "X Layer",
+  },
 ];
 
-0x1b285Ffd0B19805947E7F285A922d2fFe5c4FE4d
