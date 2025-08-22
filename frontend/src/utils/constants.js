@@ -113,5 +113,11 @@ export const supportedChains = [
     blockExplorer: "https://www.oklink.com/zh-hans/x-layer/",
     name: "X Layer",
   },
+  {
+    chainId: 210000,
+    batchTransferAddress: "0xae91aB9F0194Da085704B3324CAAcF33f3d3A5d8",
+    blockExplorer: "https://explorer.juscan.io/",
+    name: "JU Chain",
+  },
 ];
 
