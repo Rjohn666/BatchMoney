@@ -119,5 +119,11 @@ export const supportedChains = [
     blockExplorer: "https://explorer.juscan.io/",
     name: "JU Chain",
   },
+    {
+    chainId: 2818,
+    batchTransferAddress: "0x375c1bFEC2D38dEf473238dd9CaD8c31e995c3a1",
+    blockExplorer: "https://explorer.morphl2.io/",
+    name: "M链",
+  },
 ];
 
