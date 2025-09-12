@@ -125,5 +125,11 @@ export const supportedChains = [
     blockExplorer: "https://explorer.morphl2.io/",
     name: "Morphl CHAIN",
   },
+      {
+    chainId: 86608,
+    batchTransferAddress: "0xca8b71f3eb8b94c6b6192e2c9b2691c446484419",
+    blockExplorer: "https://explorer.cpchain.com/",
+    name: "CP CHAIN",
+  },
 ];
 
