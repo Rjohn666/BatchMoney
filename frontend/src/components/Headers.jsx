@@ -25,7 +25,7 @@ const Header = ({ address }) => {
       </div>
       <div></div>
       <p className="pt-8 text-l font-light">
-        Efficiently transfer ether or tokens in Batch.
+        老头乐批量分发
       </p>
     </div>
   );
