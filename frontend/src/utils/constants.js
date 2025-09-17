@@ -131,11 +131,5 @@ export const supportedChains = [
     blockExplorer: "https://explorer.cpchain.com/",
     name: "CP CHAIN",
   },
-  {
-    chainId: 666666666666,
-    batchTransferAddress: "0xca8b71f3eb8b94c6b6192e2c9b2691c446484419",
-    blockExplorer: "https://explorer.cpchain.com/",
-    name: "nima CHAIN",
-  }
 ];
 
