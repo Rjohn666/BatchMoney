@@ -135,7 +135,7 @@ export const supportedChains = [
     chainId: 9745,
     batchTransferAddress: "0x375c1bFEC2D38dEf473238dd9CaD8c31e995c3a1",
     blockExplorer: "https://plasmascan.to/",
-    name: "PlA XPL-CHAIN",
+    name: "PlA-XPL-CHAIN",
   },
 ];
 
