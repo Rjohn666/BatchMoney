@@ -16,7 +16,7 @@ const Header = ({ address }) => {
           }}
           alt="Ethereum SVG"
         />
-        <h2 className="mt-8 text-4xl font-light">Batch Money</h2>
+        <h2 className="mt-8 text-4xl font-light">永赚分发Batch Money</h2>
         {address && (
           <span className="text-l pt-2 font-light">
             {networkContext.network || "unsupported network"}
